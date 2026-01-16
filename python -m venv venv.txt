@@ -1,0 +1,4 @@
+python -m venv venv
+pip install pandas (di terminal)
+pip install numpy pandas scikit-learn matplotlib seaborn jupyter
+streamlit run app.py  
